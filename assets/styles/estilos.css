@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+*{
+    font-family: 'Playball', cursive;
+}
+
 .banner{
-    background-image: url("../img/fotobanner.jpg");
+    background-image: url("https://thumbs.gfycat.com/DigitalSnoopyInganue-size_restricted.gif");
     padding: 15% 30% 25% 8%;
     background-size: cover;
     background-position: top center;
     position: relative;
     z-index:1;
+    
 }
 
 .banner::after{
@@ -25,3 +31,9 @@
     font-family: 'Kalam', cursive;
     
 }
+
+
+
+
+
+
